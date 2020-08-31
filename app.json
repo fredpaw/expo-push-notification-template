@@ -1,0 +1,12 @@
+{
+  "name": "notification",
+  "displayName": "notification",
+  "expo": {
+    "name": "notification",
+    "slug": "notification",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
