@@ -5,8 +5,9 @@
     "name": "notification",
     "slug": "notification",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "useNextNotificationsApi": true
+    }
   }
 }
